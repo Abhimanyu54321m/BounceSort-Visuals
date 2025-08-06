@@ -14,12 +14,11 @@ A beautifully animated **Bubble Sort Visualizer** built with HTML, CSS, and Java
 
 ---
 
-## Demo
 
-![BounceSort Demo](https://github.com/Abhimanyu54321m/BounceSort-Visuals/assets/demo.gif)  
-> *(Add your own GIF or screen recording here)*
+## Live Demo
 
----
+👉 [Click here to try BounceSort Visuals](jocular-parfait-30278c.netlify.app)
+
 
 ## Tech Stack
 
