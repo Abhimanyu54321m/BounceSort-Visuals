@@ -17,7 +17,7 @@ A beautifully animated **Bubble Sort Visualizer** built with HTML, CSS, and Java
 
 ## Live Demo
 
-👉 [Click here to try BounceSort Visuals](jocular-parfait-30278c.netlify.app)
+👉 [Click here to try BounceSort Visuals](https://jocular-parfait-30278c.netlify.app)
 
 
 ## Tech Stack
